@@ -27,7 +27,6 @@ namespace CrypticWytch
             this.FormBorderStyle = FormBorderStyle.None;
             this.Size = new System.Drawing.Size(550, 400);
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.Icon = new Icon("Witch.ico");
 
             Panel titleBar = new Panel
             {
