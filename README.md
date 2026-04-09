@@ -38,10 +38,10 @@
 ## 📸 Скриншоты
 
 ### Главное окно
-![Главное окно](Screenshots/main_window.png)
+![Главное окно](CrypticWytch/Screenshots/main_window.png)
 
 ### Режим шифрования
-![Режим шифрования](Screenshots/crypto_mode.png)
+![Режим шифрования](CrypticWytch/Screenshots/crypto_mode.png)
 
 ## 🛠️ Сборка из исходников
 
